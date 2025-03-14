@@ -1,0 +1,17 @@
+.item {
+    display: flex;
+    flex-direction: column;
+ /* Modern equivalent of word-wrap */
+    word-break: break-word;  /* Forces breaking if needed */
+    border: 1px solid lightgrey;
+    border-radius: 10px;
+    padding: 0.5rem;
+    height: 350px;
+    width: 280px;
+    background-color: whitesmoke;
+    /* Ensures no overflow outside the box */
+  }
+  
+
+  
+  

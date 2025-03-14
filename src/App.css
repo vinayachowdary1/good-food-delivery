@@ -1,0 +1,13 @@
+/* src/App.css or src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional custom styles */
+* {
+  font-family: sans-serif;
+}
+
+*::selection {
+  background-color: orangered;
+}

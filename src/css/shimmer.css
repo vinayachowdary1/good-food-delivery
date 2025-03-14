@@ -1,0 +1,12 @@
+.shimmer-container{
+    display:flex;
+    justify-content: flex-start;
+    flex-flow: row wrap;
+    gap:3rem;
+}
+.shimmer-cards{
+    height: 500px;
+    width: 250px;
+    border-radius: 5px;
+  background-color: rgba(210, 203, 203, 0.637);
+}
