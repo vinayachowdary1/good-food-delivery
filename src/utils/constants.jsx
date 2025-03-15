@@ -18,12 +18,3 @@ export const MENU_API = "https://www.swiggy.com/dapi/menu/pl?page-type=REGULAR_M
 
 
 
-/*{
-            categoryData?.card?.card?.itemCards.map((items,index)=>(
-              <div className="bg-slate-700">
-              <h1>{items?.card?.info?.name}</h1>
-              <h1>{items?.card?.info?.name}</h1>
-              <img src={items?.card?.info?.name?.imageId}  />
-              </div>
-            ))
-          }*/
